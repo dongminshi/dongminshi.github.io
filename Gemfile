@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 4.3"
+gem "jekyll", "< 4.0"
 
 gem "jekyll-theme-hydejack", "~> 9.1"
 
@@ -17,6 +17,8 @@ gem "jekyll-theme-hydejack", "~> 9.1"
 # See [Deploy in the Hydejack Docs](https://hydejack.com/docs/deploy) for details.
 
 # gem "jekyll-theme-hydejack", git: "https://github.com/hydecorp/hydejack-pro", tag: "pro/v9.2.0"
+
+gem "github-pages", group: :jekyll_plugins
 
 # IMPORTANT: The followign gem is used to compile math formulas to 
 # KaTeX during site building.
