@@ -3,14 +3,12 @@
 # Change `author1` to your shortname.
 author1:
   name:              Dongmin Shi
-  email:             <mail@domain.tld>
+  email:             shidm0312@hotmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
     12345678
-    
-    Open `_data/authors.yml` to edit this text.
 
   # This photo will be used in the about section
   picture:
@@ -25,12 +23,12 @@ author1:
   # Rearrange to change the order in which they appear
   # You can also provide an absolute URL (starting with https://) instead of usernames
   social:
+    google:          5V1yaQMAAAAJ
+    email:           <mail@domain.tld>
     twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    github:          dongminshi
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
-    # google:          <number>
     # vk:              <username>
     # youtube:         <string_string_string>
     # vimeo:           <username>
